@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\home\\Downloads\\PlatformerGame\\PlatformerGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0115E60E-F0CD-BE1B-22BF-B53E041EF85E}|Assembly-CSharp.csproj|c:\\users\\home\\downloads\\platformergame\\platformergame\\assets\\script\\doorcontroior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0115E60E-F0CD-BE1B-22BF-B53E041EF85E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\doorcontroior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0115E60E-F0CD-BE1B-22BF-B53E041EF85E}|Assembly-CSharp.csproj|c:\\users\\home\\downloads\\platformergame\\platformergame\\assets\\script\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0115E60E-F0CD-BE1B-22BF-B53E041EF85E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoorControior.cs",
+              "DocumentMoniker": "C:\\Users\\home\\Downloads\\PlatformerGame\\PlatformerGame\\Assets\\Script\\DoorControior.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\DoorControior.cs",
+              "ToolTip": "C:\\Users\\home\\Downloads\\PlatformerGame\\PlatformerGame\\Assets\\Script\\DoorControior.cs*",
+              "RelativeToolTip": "Assets\\Script\\DoorControior.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T01:26:30.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainController.cs",
+              "DocumentMoniker": "C:\\Users\\home\\Downloads\\PlatformerGame\\PlatformerGame\\Assets\\Script\\MainController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\MainController.cs",
+              "ToolTip": "C:\\Users\\home\\Downloads\\PlatformerGame\\PlatformerGame\\Assets\\Script\\MainController.cs",
+              "RelativeToolTip": "Assets\\Script\\MainController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T09:14:35.204Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
