@@ -3,3 +3,8 @@
 [Oo]bj/
 [Ll]ogs/
 [Uu]ser[Ss]ettings/
+.vs/
+*.csproj
+*.sln
+*.user
+*.suo
